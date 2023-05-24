@@ -1,0 +1,15 @@
+Client-side:
+
+    Fivem GTA5 funkcionalumas
+    Pranešimų komponentas (mano kurta)
+    ESX Menu (created by: ESX team, edited/design: gtamiestas)
+    ESX Framework (Created by: ESX team, added own needed functionality)
+    RP Progress Bar (Created by: Karl Saunder, added own callback functionality)
+
+Server-side:
+    ESX Framework (Created by: ESX team, added own needed functionality)
+    ox-mysql (Created by: Linden)
+    Fivem GTA5 funkcionalumas
+    
+
+
